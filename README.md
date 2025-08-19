@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @khannasid
-- 👀 I’m interested in creating stuffs (tech/non-tech). 
-- 🌱 I work with TypeScript/JavaScript and its not easy for sure!!
+- 👋 Hi, I’m Siddhant
+- Love to Learn, Create and Think out of the Box.
 
 <!---
 khannasid/khannasid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
